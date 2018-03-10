@@ -1,0 +1,58 @@
+O/D 1º/ADJ Colóquio/NPR de/P Linguística/NPR para/P o/D Processamento/NPR Automático/ADJ de/P Linguagem/NPR Natural/ADJ-G (/( LiPrAL/NPR )/( se/SE apresenta/VB-P como/CONJS uma/D-UM-F oportunidade/N para/P mostrar/VB o/D trabalho/N de/P pesquisadores/N-P do/P+D Brasil/NPR na/P+D-F área/N do/P+D Processamento/NPR Automático/ADJ de/P Linguagem/NPR Natural/ADJ-G (/( PLN/NPR )/( ,/, que/WPRO é/SR-P ainda/ADV pouco/Q conhecida/VB-AN-F pelos/P+D-P linguistas/N-P do/P+D país/N ./. 
+
+
+O/D evento/N será/SR-R realizado/VB-AN no/P+D campus/N-P universitário/ADJ de/P Goiabeiras/NPR-P ,/, na/P+D-F cidade/N de/P Vitória/NPR (/( Espírito/NPR Santo/ADJ )/( ./. 
+O/D campus/N-P de/P Goiabeiras/NPR-P é/SR-P bem/ADV próximo/ADJ de/P excelentes/ADJ-G-P opções/N-P de/P hospedagem/N ./. 
+
+
+A/D-F troca/N de/P informações/N-P dará/VB-R aos/P+D-P participantes/N-P e/CONJ às/P+D-F-P pesquisas/N-P maior/ADJ-R-G visibilidade/N nacional/ADJ-G ,/, contribuindo/VB-G na/P+D-F formação/N dos/P+D-P estudantes/N-P pesquisadores/N-P nesta/P+D-F área/N e/CONJ no/P+D fortalecimento/N das/P+D-F-P relações/N-P entre/P professores/N-P pesquisadores/N-P de/P diferentes/ADJ-G-P universidades/N-P brasileiras/ADJ-F-P e/CONJ empresários/N-P que/WPRO necessitam/VB-P de/P resultados/N-P dos/P+D-P estudos/N-P linguísticos/ADJ-P para/P o/D PLN/NPR ./. 
+
+
+O/D Colóquio/NPR LiPrAL/NPR visa/VB-P apresentar/VB resultados/N-P ,/, promover/VB a/D-F pesquisa/N ,/, e/CONJ elevar/VB a/D-F qualidade/N da/P+D-F produção/N e/CONJ inovação/N científica/ADJ-F ,/, nas/P+D-F-P áreas/N-P temáticas/ADJ-F-P relacionadas/VB-AN-F-P ao/P+D Processamento/NPR de/P Linguagem/NPR Natural/ADJ-G (/( PLN/NPR )/( e/CONJ à/P+D-F Linguística/NPR computacional/ADJ-G ,/, reunindo/VB-G pesquisadores/N-P de/P diversas/ADJ-F-P universidades/N-P e/CONJ empresários/N-P que/WPRO utilizam/VB-P recursos/N-P linguísticos/ADJ-P para/P PLN/NPR ./. 
+
+
+O/D conhecimento/N sobre/P conceitos/N-P próprios/ADJ-P da/P+D-F linguística/N é/SR-P importante/ADJ-G na/P+D-F criação/N de/P sistemas/N-P de/P PLN/NPR ./. 
+Atualmente/ADV ,/, as/D-F-P aplicações/N-P vêm/VB-P sendo/SR-G concebidas/VB-AN-F-P quase/ADV só/FP por/P informatas/N-P que/WPRO ,/, geralmente/ADV ,/, não/NEG têm/TR-P essa/D-F preocupação/N ,/, e/CONJ recorrem/VB-P a/P poucas/Q-F-P noções/N-P linguísticas/ADJ-F-P ./. 
+O/D desempenho/N dos/P+D-P sistemas/N-P computacionais/ADJ-G-P resultantes/ADJ-G-P poderia/VB-R ser/SR substancialmente/ADV melhorado/VB-AN se/CONJS tivéssemos/TR-SD mais/ADV-R pesquisas/N-P investindo/VB-G numa/P+D-UM-F cobertura/N de/P descrição/N exaustiva/ADJ-F do/P+D léxico/N do/P+D português/NPR ./. 
+Pensamos/VB-P que/C linguistas/N-P com/P capacidade/N de/P descrever/VB formas/N-P linguísticas/ADJ-F-P e/CONJ formalizar/VB resultados/N-P para/P uso/N computacional/ADJ-G podem/VB-P se/SE integrar/VB em/P empresas/N-P tecnológicas/ADJ-F-P com/P atividades/N-P no/P+D ramo/N de/P PLN/NPR ./. 
+Portanto/CONJ ,/, os/D-P estudos/N-P nessa/P+D-F área/N ,/, além/ADV de/P contribuir/VB para/P o/D ensino/N de/P línguas/N-P ,/, têm/TR-P um/D-UM potencial/N de/P empregos/N-P em/P atividades/N-P tecnológicas/ADJ-F-P ,/, que/WPRO ainda/ADV não/NEG é/SR-P percebido/VB-AN pela/P+D-F comunidade/N acadêmica/ADJ-F ,/, sobretudo/ADV em/P nosso/PRO$ Estado/NPR ./. 
+Para/P revertermos/VB-F essa/D-F situação/N ,/, é/SR-P preciso/ADJ explicar/VB e/CONJ comprovar/VB a/D-F relevância/N crucial/ADJ-G das/P+D-F-P pesquisas/N-P em/P linguística/N para/P o/D PLN/NPR ,/, e/CONJ investir/VB mais/ADV-R tanto/ADV-R na/P+D-F motivação/N de/P pesquisadores/N-P ,/, quanto/WADV na/P+D-F realização/N de/P pesquisas/N-P que/WPRO visam/VB-P às/P+D-F-P descrições/N-P de/P estruturas/N-P formalizadas/VB-AN-F-P para/P este/D fim/N ./. 
+
+
+O/D Colóquio/NPR ,/, portanto/ADV ,/, se/SE oferece/VB-P como/CONJS o/D espaço/N científico/ADJ para/P essa/D-F reflexão/N sobre/P a/D-F importância/N da/P+D-F linguística/N na/P+D-F construção/N de/P recursos/N-P para/P o/D PLN/NPR ./. 
+
+
+Espera/VB-P -/+ se/SE promover/VB um/D-UM diálogo/N em/P torno/ADV da/P+D-F produção/N científica/ADJ-F nas/P+D-F-P áreas/N-P de/P linguística/N e/CONJ informática/N ./. 
+A/D-F proposta/N é/SR-P trabalharmos/VB-F de/P modo/N integrativo/ADJ ,/, apresentando/VB-G pesquisas/N-P realizadas/VB-AN-F-P por/P diferentes/ADJ-G-P métodos/N-P de/P descrição/N e/CONJ formalização/N da/P+D-F língua/N em/P uso/N ,/, com/P vistas/N-P à/P+D-F elaboração/N de/P sistemas/N-P de/P busca/N ,/, correção/N ortográfica/ADJ-F ,/, tradução/N e/CONJ outras/OUTRO-F-P aplicações/N-P ./. 
+
+
+Outra/OUTRO-F meta/N é/SR-P a/D-F publicação/N dos/P+D-P artigos/N-P na/P+D-F forma/N de/P um/D-UM livro/N ./. 
+
+
+Os/D-P objetivos/N-P do/P+D colóquio/N são/SR-P os/D-P seguintes/ADJ-G-P ./. 
+
+
+Fortalecer/VB as/D-F-P pesquisas/N-P na/P+D-F área/N de/P PLN/NPR ,/, considerando/VB-G que/C se/SE trata/VB-P de/P uma/D-UM-F área/N proativa/ADJ-F para/P o/D ensino/N de/P língua/N portuguesa/ADJ-F como/CONJS também/ADV para/P o/D mercado/N de/P trabalho/N no/P+D que/WPRO diz/VB-P respeito/N à/P+D-F ciência/N e/CONJ tecnologia/N ,/, tendo/TR-G como/WADV condição/N as/D-F-P descrições/N-P e/CONJ formalizações/N-P de/P estruturas/N-P lingüísticas/ADJ-F-P para/P uso/N computacional/ADJ-G ./. 
+Estimular/VB a/D-F curiosidade/N e/CONJ participação/N dos/P+D-P nossos/PRO$-P alunos/N-P ,/, com/P vistas/N-P ao/P+D ingresso/N no/P+D curso/N de/P mestrado/N ./. 
+Reunir/VB pesquisadores/N-P da/P+D-F área/N ./. 
+Confrontar/VB pontos/N-P de/P vista/N de/P estudiosos/N-P ,/, em/P particular/ADJ-G sobre/P as/D-F-P formas/N-P de/P encarar/VB a/D-F interdisciplinaridade/N inerente/ADJ-G a/P esta/D-F área/N ./. 
+Colocar/VB em/P contato/N pesquisadores/N-P de/P diferentes/ADJ-G-P níveis/N-P ,/, desde/P os/D-P alunos/N-P de/P iniciação/N científica/ADJ-F até/P os/D-P líderes/N-P do/P+D domínio/N ./. 
+Reforçar/VB e/CONJ incentivar/VB a/D-F participação/N de/P linguistas/N-P no/P+D PLN/NPR ,/, pois/CONJ os/D-P colóquios/N-P regulares/ADJ-G-P existentes/ADJ-P nesse/P+D domínio/N costumam/VB-P atrair/VB mais/ADV-R informatas/N-P do/P+D que/WPRO linguistas/N-P ./. 
+Promover/VB uma/D-UM-F interface/N entre/P pesquisadores/N-P e/CONJ empresários/N-P interessados/VB-AN-P em/P inovações/N-P com/P PLN/NPR ./. 
+
+
+O/D público/N alvo/N são/SR-P pesquisadores/N-P ,/, doutorandos/N-P ,/, mestrandos/N-P e/CONJ graduandos/N-P em/P lingüística/N ./. 
+
+
+Pretende/VB-P -/+ se/SE realizar/VB o/D colóquio/N de/P Linguística/NPR para/P Processamento/NPR Automático/ADJ de/P línguas/N-P bienalmente/ADV ./. 
+
+
+Pretendemos/VB-P combinar/VB apresentações/N-P convidadas/VB-AN-F-P (/( palestra/N ,/, minicursos/N-P e/CONJ comunicações/N-P )/( com/P comunicações/N-P submetidas/VB-AN-F-P a/P uma/D-UM-F seleção/N anônima/ADJ ./. 
+
+
+A/D-F inscrição/N no/P+D colóquio/N é/SR-P gratuita/ADJ-F ./. 
+
+
+Licença/NPR Creative/NPR Commons/NPR-P Este/D trabalho/N está/ET-P licenciado/VB-AN sob/P uma/D-UM-F Licença/NPR Creative/NPR Commons/NPR-P Attribution/NPR 3.0/NUM ./. 
+
+

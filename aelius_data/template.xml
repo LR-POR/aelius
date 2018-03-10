@@ -1,0 +1,23 @@
+<TEI>
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title>title of the resource</title>
+				<author>author of the resource</author>
+   <respStmt>
+    <resp>compiled by</resp>
+    <name>compiler's name</name>
+   </respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<p>supply publication information</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p>supply information about the source</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:lang="pt">
+		<body></body>
+	</text>
+</TEI>

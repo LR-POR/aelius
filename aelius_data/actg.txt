@@ -1,0 +1,13 @@
+Abordagens Computacionais da Teoria da Gramática. Organização: Leonel Figueiredo de Alencar e Gabriel de Ávila Othero. Campinas: Mercado de Letras, 2012.
+
+O objetivo central deste livro é preencher a lacuna existente de obras que explorem, de forma mais aprofundada, a aplicação computacional de pesquisas em sintaxe formal. Busca oferecer aos leitores de língua portuguesa um material teoricamente bem fundamentado e, ao mesmo tempo, de leitura acessível na área de interface entre gramática e computação, sob a perspectiva de alguns dos principais modelos linguísticos dos últimos 25 anos caracterizadas por um design computacional.
+
+Na Europa e nos Estados Unidos, a área da Linguística Computacional está em extrema expansão e goza de muita popularidade, tanto nos cursos de Ciências da Computação quanto nos de Linguística. De fato, o estudo do processamento automático da linguagem natural é considerado nesses países como relevante não só para a indústria de software, mas também para a elaboração de teorias gramaticais formalmente consistentes e psicolinguisticamente realistas.
+
+No Brasil, a área é relativamente nova, mas vem se desenvolvendo em diversas universidades do país. Este livro pretende contribuir tanto para uma formação mais sólida em teoria gramatical nos cursos de Letras e Linguística, quanto para a construção de programas de processamento automático da linguagem natural mais eficientes e robustos.
+
+Os oito capítulos de que se compõe o livro abordam aspectos teóricos e práticos da interface entre estudos gramaticais e computacionais, nos níveis morfológico, sintático e semântico, sob a perspectiva de alguns dos principais modelos linguísticos dos últimos 25 anos caracterizadas por um design computacional. Esses capítulos foram elaborados por especialistas com experiência comprovada em suas áreas e vinculados a conceituadas universidades brasileiras e europeias.
+
+Este livro constitui, portanto, valioso instrumento de aprendizagem ou ensino para um amplo público, que contará com materiais complementares on-line no endereço http://teoria-da-gramatica.blogspot.com/: estudantes avançados de graduação de cursos de Letras, Linguística, Computação, Sistemas de Informação e Informática; estudantes de cursos de pós-graduação (lato e stricto sensu) nessas áreas; professores desses cursos; pesquisadores, autores de software e demais interessados nos fundamentos teóricos linguísticos do processamento automático da gramática das línguas naturais e nos mais recentes formalismos gramaticais e sistemas para o desenvolvimento de gramáticas computacionais.
+
+Fonte: http://www.mercado-de-letras.com.br/livro-mway.php?codid=278

@@ -1,0 +1,585 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 3.4.1  (Unix)">
+	<META NAME="AUTHOR" CONTENT="Leonel Figueiredo de Alencar">
+	<META NAME="CREATED" CONTENT="20111223;14305600">
+	<META NAME="CHANGEDBY" CONTENT="Leonel Figueiredo de Alencar">
+	<META NAME="CHANGED" CONTENT="20130225;10322800">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { margin: 2cm }
+		P { margin-bottom: 0.21cm }
+		A:link { so-language: zxx }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="pt-BR" DIR="LTR">
+<P ALIGN=RIGHT STYLE="margin-bottom: 0cm; font-weight: normal"><FONT SIZE=3>©
+2011 – 2013 <A HREF="http://complin.blogspot.com.br/">Leonel F. de
+Alencar</A></FONT></P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm; font-weight: normal"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><FONT SIZE=4 STYLE="font-size: 16pt"><B>Instruções
+para instalação do Aelius</B></FONT></P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=CENTER STYLE="margin-bottom: 0cm"><SDFIELD TYPE=DATETIME SDVAL="41330.4388541667" SDNUM="4105;1046;DD/MM/AA">25/02/13</SDFIELD></P>
+<P STYLE="margin-bottom: 0cm; border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm; border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+<B>Pré-requisitos</B></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><B>Básicos</B></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<OL>
+	<LI><P STYLE="margin-bottom: 0cm">Python (versão 2.7, mas não a
+	versão 3.0)</P>
+</OL>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm">	<A HREF="http://www.python.org/">http://www.python.org/</A>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><BR>
+</P>
+<OL START=2>
+	<LI><P STYLE="margin-bottom: 0cm">Bibliotecas exigidas pelo NLTK
+	compatíveis com a sua versão de Python, a serem instaladas nesta
+	sequência: 
+	</P>
+	<OL>
+		<LI><P STYLE="margin-bottom: 0cm">PyYAML</P>
+		<OL>
+			<P ALIGN=LEFT STYLE="margin-bottom: 0cm"><A HREF="http://pyyaml.org/">http://pyyaml.org/</A>
+						</P>
+		</OL>
+		<LI><P STYLE="margin-bottom: 0cm">NumPy</P>
+	</OL>
+</OL>
+<P STYLE="margin-bottom: 0cm">		<A HREF="http://numpy.scipy.org/">http://numpy.scipy.org/</A>
+</P>
+<OL>
+	<OL START=3>
+		<LI><P STYLE="margin-bottom: 0cm">Matplotlib</P>
+	</OL>
+</OL>
+<P STYLE="margin-bottom: 0cm">		<A HREF="http://matplotlib.sourceforge.net/">http://matplotlib.sourceforge.net/</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<OL START=3>
+	<LI><P STYLE="margin-bottom: 0cm">NLTK na versão 2.0.1<FONT FACE="Times New Roman, serif"><SPAN STYLE="font-weight: normal">rc1</SPAN></FONT>
+	(recomendada):</P>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Times New Roman, serif"><FONT SIZE=3>	</FONT></FONT><A HREF="http://code.google.com/p/nltk/"><FONT COLOR="#0020ba"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><U>http://code.google.com/p/nltk/</U></FONT></FONT></FONT></A></P>
+</OL>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">	Recomendamos, tanto para usuários do
+Linux e do Mac OS X quanto do Windows, a instalação a partir do
+código-fonte, disponível em um destes arquivos compactados:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">	<A HREF="http://code.google.com/p/nltk/downloads/detail?name=nltk-2.0.1rc1.tar.gz">http://code.google.com/p/nltk/downloads/detail?name=nltk-2.0.1rc1.tar.gz</A>
+ 
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">	<A HREF="http://code.google.com/p/nltk/downloads/detail?name=nltk-2.0.1rc1.zip">http://code.google.com/p/nltk/downloads/detail?name=nltk-2.0.1rc1.zip</A>
+</P>
+<OL START=3>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm">Informações detalhadas sobre a
+	instalação da versão 2.0.1<FONT FACE="Times New Roman, serif"><SPAN STYLE="font-weight: normal">rc1
+	do NLTK </SPAN></FONT>encontram-se no antigo site do projeto:</P>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm">	<A HREF="https://sites.google.com/site/naturallanguagetoolkit/Home">https://sites.google.com/site/naturallanguagetoolkit/Home</A>
+	  
+	</P>
+</OL>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">	Link direto para as instruções de
+instalação (ver seção <I>NLTK Source Installation</I>):</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">		<A HREF="https://sites.google.com/site/naturallanguagetoolkit/download">https://sites.google.com/site/naturallanguagetoolkit/download</A>
+</P>
+<OL START=3>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm">Basicamente, para instalar o NLTK na
+	versão 2.0.1<FONT FACE="Times New Roman, serif"><SPAN STYLE="font-weight: normal">rc1
+	a partir do código-fonte, basta entrar, no Terminal, na pasta em
+	que descompactou o arquivo tar.gz ou .zip e executar no Linux ou Mac
+	OS X:</SPAN></FONT></P>
+	<P STYLE="margin-bottom: 0cm; font-weight: normal"></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>sudo
+	python setup.py install</B></FONT></P>
+</OL>
+<P STYLE="margin-bottom: 0cm; font-weight: normal"><BR>
+</P>
+<OL START=3>
+	<P STYLE="margin-bottom: 0cm">No Windows, execute no interpretador
+	de comandos <A HREF="http://en.wikipedia.org/wiki/Command_Prompt">cmd.exe</A>:</P>
+</OL>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">	<FONT FACE="Courier, monospace"><B>python
+setup.py install</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<OL START=3>
+	<P STYLE="margin-bottom: 0cm">Para que o comando acima funcione, é
+	preciso que a pasta onde se encontra o binário de Python,
+	geralmente C:\Python27, esteja na sua <A HREF="http://geekswithblogs.net/renso/archive/2009/10/21/how-to-set-the-windows-path-in-windows-7.aspx">variável
+	PATH</A>.</P>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm">Caso já tenha instalado o NLTK e não
+	saiba qual é a sua versão, execute:</P>
+</OL>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<OL START=3>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>&gt;&gt;&gt;</B>
+	<B>import nltk</B></FONT></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>&gt;&gt;&gt;
+	nltk.__version__ </B></FONT>
+	</P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><SPAN STYLE="font-weight: normal">'2.0.1rc1'</SPAN><B>
+	</B></FONT>
+	</P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>&gt;&gt;&gt;
+	</B></FONT>
+	</P>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm"><FONT COLOR="#ff0000"><B><FONT FACE="Times New Roman, serif">O
+	Aelius não funciona plenamente com a versões </FONT>2.0.4 e 3.0a1
+	<FONT FACE="Times New Roman, serif">do NLTK </FONT>(esta última,
+	versão ainda experimental para Python 3)<FONT FACE="Times New Roman, serif">,
+	as mais recentes em 25 de fevereiro de 2013, cujas instruções de
+	instalação estão disponíveis no site atual do projeto:</FONT></B></FONT></P>
+	<P STYLE="margin-bottom: 0cm; font-weight: normal"></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Times New Roman, serif"><SPAN STYLE="font-weight: normal">	</SPAN><A HREF="http://www.nltk.org/"><SPAN STYLE="font-weight: normal">http://www.nltk.org/</SPAN></A></FONT></P>
+	<P STYLE="margin-bottom: 0cm; font-weight: normal"></P>
+	<LI><P STYLE="margin-bottom: 0cm">Toquenizador Punkt do NLTK, que
+	pode ser instalado por meio do NLTK Downloader:</P>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">&gt;&gt;&gt;
+	<B>import nltk</B></FONT></P>
+	<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">&gt;&gt;&gt;
+	<B>nltk.download(&quot;punkt&quot;)</B></FONT></P>
+	<P STYLE="margin-bottom: 0cm"></P>
+	<P STYLE="margin-bottom: 0cm"></P>
+</OL>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Times New Roman, serif"><B>Adicionais</B></FONT></P>
+<P STYLE="margin-bottom: 0cm; font-weight: normal"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">1) Etiquetador Hunpos</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://code.google.com/p/hunpos/">http://code.google.com/p/hunpos/</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">2) Etiquetador LX-Tagger e todas as
+bibliotecas exigidas. Consultar:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://lxcenter.di.fc.ul.pt/tools/pt/conteudo/LXTagger.html">http://lxcenter.di.fc.ul.pt/tools/pt/conteudo/LXTagger.html</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">3)  Etiquetador Stanford Tagger e todos
+os pré-requisitos exigidos. Consultar:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://nlp.stanford.edu/software/tagger.shtml">http://nlp.stanford.edu/software/tagger.shtml</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">4) Apache OpenNLP e ttodos os
+pré-requisitos exigidos. Consultar:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm; border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+ <A HREF="http://opennlp.apache.org/">http://opennlp.apache.org/</A></P>
+<P STYLE="margin-bottom: 0cm; border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm; border-top: none; border-bottom: 1.10pt double #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+<B>Passos para a instalação</B></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Nas instruções abaixo, assumimos que
+você baixou a versão February-25-2013 do Aelius e vai instalar o
+programa no Linux ou Mac OS X.</P>
+<P STYLE="margin-bottom: 0cm">Para outras versões do Aelius ou para
+instalação em outros sistemas operacionais, faça as adaptações
+necessárias.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">1. Descompacte o arquivo
+<FONT FACE="Courier, monospace">Aelius-February-25-2013.zip</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">2. No diretório $HOME, crie a pasta
+<FONT FACE="Courier, monospace">Applications</FONT>, se ela ainda não
+existir.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">3. Copie a pasta Aelius para o
+diretório <FONT FACE="Courier, monospace">$HOME/Applications</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">	Verifique isso na <I>shell</I>:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>	ls
+$HOME/Applications/Aelius</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">4. Copie a pasta <FONT FACE="Courier, monospace">aelius_data</FONT>
+para o diretório <FONT FACE="Courier, monospace">$HOME</FONT>;
+verifique isso na <I>shell</I>:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">	<B>ls
+-m $HOME/aelius_data</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">5. O diretório <FONT FACE="Courier, monospace">$HOME/aelius_data</FONT>
+deverá conter, entre outros, os seguintes arquivos:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">AeliusBRUBT.pkl,
+AeliusHunPos, AeliusHunPosMM, AeliusMaxEnt, AeliusRUBT.pkl,
+AeliusStanfordMM, </FONT>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">LICENSE.txt,
+README.html, README.txt, exemplo.nltk.gold.txt, exemplo.txt,
+freq_tycho_a.pkl</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">O uso dos etiquetadores treinados em
+versão modificada do Corpus Histórico do Português Tycho Brahe,
+doravante CHPTB, tais como <FONT FACE="Courier, monospace">AeliusBRUBT.pkl</FONT>,
+<FONT FACE="Courier, monospace">AeliusRUBT.pkl</FONT><FONT FACE="Times New Roman, serif">,</FONT><FONT FACE="Courier, monospace">
+AeliusHunPos</FONT> e <FONT FACE="Courier, monospace">AeliusMaxEnt</FONT><FONT FACE="Times New Roman, serif">,</FONT><FONT FACE="Courier, monospace">
+</FONT>bem como do arquivo <FONT FACE="Courier, monospace">freq_tycho_a.pkl</FONT><FONT FACE="Times New Roman, serif">,</FONT><FONT FACE="Courier, monospace">
+</FONT><FONT FACE="Times New Roman, serif">uma</FONT><FONT FACE="Courier, monospace">
+</FONT>lista das palavras mais frequentes de amostra do CHPTB, está
+sujeito às condições estabelecidas no arquivo de nome-base <FONT FACE="Courier, monospace">README</FONT>
+que os acompanha na pasta <FONT FACE="Courier, monospace">aelius_data</FONT><FONT FACE="Times New Roman, serif">,</FONT><FONT FACE="Courier, monospace">
+</FONT><FONT FACE="Times New Roman, serif">onde se encontram
+informações de </FONT><I>copyright</I>. 
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Do mesmo modo, o uso dos arquivo
+<FONT FACE="Courier, monospace">AeliusHunPosMM </FONT><FONT FACE="Times New Roman, serif">e</FONT>
+<FONT FACE="Courier, monospace">AeliusStanfordMM</FONT><FONT FACE="Times New Roman, serif">,
+entre outros </FONT>etiquetadores treinados no Corpus MAC-Morpho,
+implica observância das restrições de utilização desse corpus.
+Para mais detalhes, consultar o referido arquivo de nome-base <FONT FACE="Courier, monospace">README</FONT>.
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Visite as seguintes páginas na WWW
+para obter informações sobre o Corpus Histórico do Português
+Tycho Brahe:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Homepage:</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://www.tycho.iel.unicamp.br/~tycho/corpus/">http://www.tycho.iel.unicamp.br/~tycho/corpus/</A>
+</P>
+<P STYLE="margin-bottom: 0cm">Licença de uso do corpus:</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://www.tycho.iel.unicamp.br/~tycho/corpus/termos.html">http://www.tycho.iel.unicamp.br/~tycho/corpus/termos.html</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Em trabalhos que utilizem algum desses
+materiais baseados no CHPTB, deve-se citar esse corpus por meio da
+seguinte referência:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=JUSTIFY STYLE="margin-bottom: 0.2cm"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN LANG="en-US"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">GALVES,
+C.; FARIA, P. </SPAN></SPAN></SPAN></FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN LANG="en-US"><I><SPAN STYLE="font-weight: normal">Tycho
+Brahe Parsed Corpus of Historical Portuguese</SPAN></I></SPAN></FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN LANG="en-US"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">.
+</SPAN></SPAN></SPAN></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN LANG="en-US"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">[S.l.:
+s.n.]</SPAN></SPAN></SPAN></FONT></FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN LANG="en-US"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">,
+2010. </SPAN></SPAN></SPAN></FONT></FONT><FONT FACE="Times New Roman, serif"><FONT SIZE=3><SPAN LANG="en-US"><SPAN STYLE="font-style: normal"><SPAN STYLE="font-weight: normal">Disponível
+em: &lt;http://www.tycho.iel.unicamp.br/~tycho/corpus/en/index.html&gt;
+Acesso em: 13 dez. 2012.</SPAN></SPAN></SPAN></FONT></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Visite o sítio do Projeto Lácio-Web
+para obter mais informações sobre o Corpus MAC-Morpho:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://www.nilc.icmc.usp.br/lacioweb/index.htm">http://www.nilc.icmc.usp.br/lacioweb/index.htm</A></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">6. Além desses arquivos, é necessário
+criar, no diretório <FONT FACE="Courier, monospace">$HOME/aelius_data</FONT>,
+um link simbólico para o modelo do português MXPOST do LX-Tagger,
+disponível em:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://lxcenter.di.fc.ul.pt/tools/pt/conteudo/LXTagger.html">http://lxcenter.di.fc.ul.pt/tools/pt/conteudo/LXTagger.html</A>
+</P>
+<P STYLE="margin-bottom: 0cm"> 
+</P>
+<P STYLE="margin-bottom: 0cm">Siga as instruções de instalação do
+LX-Tagger fornecidas no respectivo site ou na pasta do etiquetador
+descarregada da Internet. Você precisa do Java 5 (JDK1.5) ou
+superior, que já é pré-instalado nas máquinas com sistema
+operacional MAC OS X, mas que pode não constar de sua instalação
+do Linux. Verifique se Java está instalado no Terminal:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>	java
+-version</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Além disso, é necessária a
+instalação do aplicativo JAVA MXPOST, desenvolvido por Adwait
+Ratnaparkhi, disponível em:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="ftp://ftp.cis.upenn.edu/pub/adwait/jmx/jmx.tar.gz">ftp://ftp.cis.upenn.edu/pub/adwait/jmx/jmx.tar.gz</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">ou a partir de link em</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://sites.google.com/site/adwaitratnaparkhi/publications">http://sites.google.com/site/adwaitratnaparkhi/publications</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Siga as instruções fornecidas pelo
+autor do MXPOST. Você precisa incluir as seguintes linhas no seu
+arquivo de configuração <FONT FACE="Courier, monospace">$HOME/.profile</FONT>
+ou <FONT FACE="Courier, monospace">$HOME/.bash_profile</FONT>
+(conforme a sua máquina):</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">CLASSPATH=&quot;$HOME/jmx/mxpost.jar&quot;</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">export
+CLASSPATH</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">PATH=&quot;${PATH}:$HOME/jmx&quot;</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">export
+PATH</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Supondo que você descompactou o
+arquivo do LX-Tagger <FONT FACE="Courier, monospace">POSTagger.zip</FONT>
+no diretório <FONT FACE="Courier, monospace">$HOME</FONT>,
+resguardadas alterações na distribuição do LX-Tagger, proceda da
+seguinte forma para criar link simbólico para o modelo do português
+desse etiquetador:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>cd
+$HOME/aelius_data</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>ln
+-s $HOME/POSTagger/Tagger/MX-PoST/UTF-8_Model_Cintil_Written \</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>lxtagger</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Verifique se o link está correto:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><B>ls
+$HOME/aelius_data/lxtagger</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Quanto ao Hunpos, para que funcione com
+o NLTK, é preciso colocar os dois arquivos binários</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">hunpos-tag	</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">hunpos-train</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">numa das pasta pré-definidas pela
+interface do NLTK para o Hunpos, por exemplo:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">$HOME/Applications/bin</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Inclua as seguintes linhas no seu
+arquivo de configuração $HOME/.profile ou $HOME/.bash_profile
+(conforme a sua máquina):</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">PATH=&quot;${PATH}:$HOME/Applications/bin&quot;</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">export
+PATH</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Consultar módulo <FONT FACE="Courier, monospace">hunpos.py</FONT>
+do pacote &quot;tag&quot; do NLTK para outros lugares onde instalar
+HunPos.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Quanto ao Stanford Tagger, a instalação
+é análoga à do MXPOST, com a diferença de que o primeiro
+etiquetador exige Java 1.6 ou superior. Descarregue o arquivo
+compactado disponível a partir de link na URL</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><A HREF="http://nlp.stanford.edu/software/tagger.shtml">http://nlp.stanford.edu/software/tagger.shtml</A>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Descompacte o arquivo na sua pasta
+$HOME. Supondo que se trata da versão disponível em
+<A HREF="http://nlp.stanford.edu/software/stanford-postagger-2012-11-11.zip">http://nlp.stanford.edu/software/stanford-postagger-2012-11-11.zip</A>,
+você deverá ter 
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">$HOME/stanford-postagger-2012-11-11</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Coloque os seguintes comandos no seu
+arquivo de configuração <FONT FACE="Courier, monospace">.profile</FONT>
+ou <FONT FACE="Courier, monospace">.bash_profile</FONT><FONT FACE="Times New Roman, serif">:</FONT>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">CLASSPATH=&quot;${CLASSPATH}:$HOME/stanford-postagger-2012-11-11/stanford-postagger.jar&quot;</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">export
+CLASSPATH</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Atente para a versão do Stanford
+Tagger que você descarregou. Precisará alterar o comando acima se
+está usando versão diferente da 2012-11-11.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">A instalação do Apache OpenNLP segue
+os mesmos princípios, uma vez que se trata de programa em Java.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">7. Inclua <FONT FACE="Courier, monospace">$HOME/Applications</FONT>
+na lista de caminhos da variável de ambiente <FONT FACE="Courier, monospace">PYTHONPATH</FONT>
+no seu arquivo de configuração (<FONT FACE="Courier, monospace">.profile</FONT>
+ou <FONT FACE="Courier, monospace">.bash_profile</FONT>):</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">PYTHONPATH=&quot;${PYTHONPATH}:$HOME/Applications&quot;</FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace">export
+PYTHONPATH</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm; background: #00dcff; border: 2.50pt solid #800000; padding: 0.05cm">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0cm; background: #00dcff; border: 2.50pt solid #800000; padding: 0.05cm">
+<FONT FACE="Times New Roman, serif"><B>Ver arquivo <FONT FACE="Courier, monospace">profile.txt</FONT>
+com todas as alterações a serem feitas no seu arquivo de
+configuração! </B></FONT>
+</P>
+<P STYLE="margin-bottom: 0cm; background: #00dcff; border: 2.50pt solid #800000; padding: 0.05cm">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0cm; background: #00dcff; border: 2.50pt solid #800000; padding: 0.05cm">
+<BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">8. Abra o IDLE a partir do Terminal e
+verifique se o Aelius aparece em <FONT FACE="Courier, monospace">File/Path
+Browser</FONT>, na pasta <FONT FACE="Courier, monospace">$HOME/Applications</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">9. Execute</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">&gt;&gt;&gt;
+<B>import Aelius</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">&gt;&gt;&gt;
+<B>Aelius.__versao__</B> </FONT>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">'0.9.7
+february-25-2013'</FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">10. Para obter ajuda, execute</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">&gt;&gt;&gt;
+<B>help(Aelius)</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">11. Faça o mesmo para os módulos
+individuais do pacote ou para funções individuais desses módulos.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">12. Sugerimos que crie em <FONT FACE="Courier, monospace">$HOME</FONT>
+uma pasta <FONT FACE="Courier, monospace">analises</FONT>, onde
+deverá armazenar os arquivos a serem analisados. Verifique na <I>shell</I>:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">	<B>ls
+$HOME/analises</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Inicie o IDLE a partir do terminal:</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">	<B>cd
+$HOME/analises</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace">	<B>idle</B></FONT></P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">Com isso, a pasta <FONT FACE="Courier, monospace">$HOME/analises</FONT>
+será o diretório de trabalho de Python, no qual o Aelius salva os
+arquivos que anota. 
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm">13. Caso tenha dúvida, registre-se no
+SourceForge e coloque a sua pergunta na seção Forum/Open Discussion
+do Aelius.</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-bottom: 0.25cm"><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3><I>Instruções
+de Instalação do Aelius</I></FONT></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3>
+by </FONT></FONT></FONT><A HREF="http://aelius.sourceforge.net/"><FONT COLOR="#0026e2"><FONT FACE="Times-Roman, serif"><FONT SIZE=3><U>Leonel
+F. de Alencar</U></FONT></FONT></FONT></A><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3>
+is licensed under a </FONT></FONT></FONT><A HREF="http://creativecommons.org/licenses/by-nc-nd/3.0/"><FONT COLOR="#0026e2"><FONT FACE="Times-Roman, serif"><FONT SIZE=3><U>Creative
+Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</U></FONT></FONT></FONT></A><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3>.</FONT></FONT></FONT></P>
+<DIV TYPE=FOOTER>
+	<P ALIGN=RIGHT STYLE="margin-top: 0.5cm; margin-bottom: 0cm"><SDFIELD TYPE=PAGE SUBTYPE=RANDOM FORMAT=PAGE>7</SDFIELD></P>
+</DIV>
+</BODY>
+</HTML>

@@ -1,0 +1,58 @@
+O/ART 1º/NPROP Colóquio/NPROP de/NPROP Linguística/NPROP para/NPROP o/NPROP Processamento/NPROP Automático/NPROP de/NPROP Linguagem/NPROP Natural/NPROP (/( LiPrAL/NPROP )/) se/PROPESS apresenta/V como/PREP uma/ART oportunidade/N para/PREP mostrar/V o/ART trabalho/N de/PREP pesquisadores/N de/PREP|+ o/ART Brasil/NPROP em/PREP|+ a/ART área/N de/PREP|+ o/ART Processamento/NPROP Automático/NPROP de/NPROP Linguagem/NPROP Natural/NPROP (/( PLN/NPROP )/) ,/, que/PRO-KS-REL é/V ainda/ADV pouco/ADV conhecida/PCP por/PREP|+ os/ART linguistas/N de/PREP|+ o/ART país/N ./. 
+
+
+O/ART evento/N será/VAUX realizado/PCP em/PREP|+ o/ART campus/N universitário/ADJ de/PREP Goiabeiras/NPROP ,/, em/PREP|+ a/ART cidade/N de/PREP Vitória/NPROP (/( Espírito/NPROP Santo/NPROP )/) ./. 
+O/ART campus/N de/PREP Goiabeiras/NPROP é/V bem/ADV próximo/ADJ de/PREP excelentes/ADJ opções/N de/PREP hospedagem/N ./. 
+
+
+A/ART troca/N de/PREP informações/N dará/V a/PREP|+ os/ART participantes/N e/KC a/PREP|+ as/ART pesquisas/N maior/ADJ visibilidade/N nacional/ADJ ,/, contribuindo/V em/PREP|+ a/ART formação/N de/PREP|+ os/ART estudantes/N pesquisadores/N em/PREP|+ esta/PROADJ área/N e/KC em/PREP|+ o/ART fortalecimento/N de/PREP|+ as/ART relações/N entre/PREP professores/N pesquisadores/N de/PREP diferentes/PROADJ universidades/N brasileiras/ADJ e/KC empresários/N que/PRO-KS-REL necessitam/V de/PREP resultados/N de/PREP|+ os/ART estudos/N linguísticos/ADJ para/PREP o/ART PLN/NPROP ./. 
+
+
+O/ART Colóquio/NPROP LiPrAL/NPROP visa/V apresentar/V resultados/N ,/, promover/V a/ART pesquisa/N ,/, e/KC elevar/V a/ART qualidade/N de/PREP|+ a/ART produção/N e/KC inovação/N científica/ADJ ,/, em/PREP|+ as/ART áreas/N temáticas/ADJ relacionadas/PCP a/PREP|+ o/ART Processamento/NPROP de/NPROP Linguagem/NPROP Natural/NPROP (/( PLN/NPROP )/) e/KC a/PREP|+ a/ART Linguística/NPROP computacional/ADJ ,/, reunindo/V pesquisadores/N de/PREP diversas/PROADJ universidades/N e/KC empresários/N que/PRO-KS-REL utilizam/V recursos/N linguísticos/ADJ para/PREP PLN/NPROP ./. 
+
+
+O/ART conhecimento/N sobre/PREP conceitos/N próprios/ADJ de/PREP|+ a/ART linguística/N é/V importante/ADJ em/PREP|+ a/ART criação/N de/PREP sistemas/N de/PREP PLN/NPROP ./. 
+Atualmente/ADV ,/, as/ART aplicações/N vêm/VAUX sendo/VAUX concebidas/PCP quase/ADV só/PDEN por/PREP informatas/N que/PRO-KS-REL ,/, geralmente/ADV ,/, não/ADV têm/V essa/PROADJ preocupação/N ,/, e/KC recorrem/V a/PREP poucas/PROADJ noções/N linguísticas/ADJ ./. 
+O/ART desempenho/N de/PREP|+ os/ART sistemas/N computacionais/ADJ resultantes/ADJ poderia/VAUX ser/VAUX substancialmente/ADV melhorado/PCP se/KS tivéssemos/V mais/PROADJ pesquisas/N investindo/V em/PREP uma/ART cobertura/N de/PREP descrição/N exaustiva/ADJ de/PREP|+ o/ART léxico/N de/PREP|+ o/ART português/N ./. 
+Pensamos/V que/KS linguistas/N com/PREP capacidade/N de/PREP descrever/V formas/N linguísticas/ADJ e/KC formalizar/V resultados/N para/PREP uso/N computacional/ADJ podem/VAUX se/PROPESS integrar/V em/PREP empresas/N tecnológicas/ADJ com/PREP atividades/N em/PREP|+ o/ART ramo/N de/PREP PLN/NPROP ./. 
+Portanto/ADV ,/, os/ART estudos/N em/PREP|+ essa/PROADJ área/N ,/, além/PREP de/PREP contribuir/V para/PREP o/ART ensino/N de/PREP línguas/N ,/, têm/V um/ART potencial/N de/PREP empregos/N em/PREP atividades/N tecnológicas/ADJ ,/, que/PRO-KS-REL ainda/ADV não/ADV é/VAUX percebido/PCP por/PREP|+ a/ART comunidade/N acadêmica/ADJ ,/, sobretudo/ADV em/PREP nosso/PROADJ Estado/NPROP ./. 
+Para/PREP revertermos/V essa/PROADJ situação/N ,/, é/V preciso/ADJ explicar/V e/KC comprovar/V a/ART relevância/N crucial/ADJ de/PREP|+ as/ART pesquisas/N em/PREP linguística/N para/PREP o/ART PLN/NPROP ,/, e/KC investir/V mais/ADV tanto/KC|[ em/PREP|+ a/ART motivação/N de/PREP pesquisadores/N ,/, quanto/KC|] em/PREP|+ a/ART realização/N de/PREP pesquisas/N que/PRO-KS-REL visam/V a/PREP|+ as/ART descrições/N de/PREP estruturas/N formalizadas/PCP para/PREP este/PROADJ fim/N ./. 
+
+
+O/ART Colóquio/N ,/, portanto/ADV ,/, se/PROPESS oferece/V como/PREP o/ART espaço/N científico/ADJ para/PREP essa/PROADJ reflexão/N sobre/PREP a/ART importância/N de/PREP|+ a/ART linguística/N em/PREP|+ a/ART construção/N de/PREP recursos/N para/PREP o/ART PLN/NPROP ./. 
+
+
+Espera/V|+ se/PROPESS promover/V um/ART diálogo/N em/PREP|+ torno/PREP|+ de/PREP|+ a/ART produção/N científica/ADJ em/PREP|+ as/ART áreas/N de/PREP linguística/N e/KC informática/N ./. 
+A/ART proposta/N é/V trabalharmos/V de/PREP modo/N integrativo/ADJ ,/, apresentando/V pesquisas/N realizadas/PCP por/PREP diferentes/PROADJ métodos/N de/PREP descrição/N e/KC formalização/N de/PREP|+ a/ART língua/N em/PREP uso/N ,/, com/PREP vistas/N a/PREP|+ a/ART elaboração/N de/PREP sistemas/N de/PREP busca/N ,/, correção/N ortográfica/ADJ ,/, tradução/N e/KC outras/PROADJ aplicações/N ./. 
+
+
+Outra/PROADJ meta/N é/V a/ART publicação/N de/PREP|+ os/ART artigos/N em/PREP|+ a/ART forma/N de/PREP um/ART livro/N ./. 
+
+
+Os/ART objetivos/N de/PREP|+ o/ART colóquio/N são/V os/ART seguintes/ADJ ./. 
+
+
+Fortalecer/V as/ART pesquisas/N em/PREP|+ a/ART área/N de/PREP PLN/NPROP ,/, considerando/V que/KS se/PROPESS trata/V de/PREP uma/ART área/N proativa/ADJ para/PREP o/ART ensino/N de/PREP língua/N portuguesa/ADJ como/KC|] também/KC|] para/PREP o/ART mercado/N de/PREP trabalho/N em/PREP|+ o/PROSUB que/PRO-KS-REL diz/V respeito/N a/PREP|+ a/ART ciência/N e/KC tecnologia/N ,/, tendo/V como/PREP condição/N as/ART descrições/N e/KC formalizações/N de/PREP estruturas/N lingüísticas/ADJ para/PREP uso/N computacional/ADJ ./. 
+Estimular/V a/ART curiosidade/N e/KC participação/N de/PREP|+ os/ART nossos/PROADJ alunos/N ,/, com/PREP vistas/N a/PREP|+ o/ART ingresso/N em/PREP|+ o/ART curso/N de/PREP mestrado/N ./. 
+Reunir/V pesquisadores/N de/PREP|+ a/ART área/N ./. 
+Confrontar/V pontos/N de/PREP vista/N de/PREP estudiosos/N ,/, em/ADV particular/ADV sobre/PREP as/ART formas/N de/PREP encarar/V a/ART interdisciplinaridade/N inerente/ADJ a/PREP esta/PROADJ área/N ./. 
+Colocar/V em/PREP contato/N pesquisadores/N de/PREP diferentes/PROADJ níveis/N ,/, desde/PREP os/ART alunos/N de/PREP iniciação/N científica/ADJ até/PREP os/ART líderes/N de/PREP|+ o/ART domínio/N ./. 
+Reforçar/V e/KC incentivar/V a/ART participação/N de/PREP linguistas/N em/PREP|+ o/ART PLN/NPROP ,/, pois/KC os/ART colóquios/N regulares/ADJ existentes/ADJ em/PREP|+ esse/PROADJ domínio/N costumam/VAUX atrair/V mais/ADV informatas/N de/PREP|+ o/PROSUB que/KS linguistas/N ./. 
+Promover/V uma/ART interface/N entre/PREP pesquisadores/N e/KC empresários/N interessados/PCP em/PREP inovações/N com/PREP PLN/NPROP ./. 
+
+
+O/ART público/ADJ alvo/N são/V pesquisadores/N ,/, doutorandos/N ,/, mestrandos/N e/KC graduandos/N em/PREP lingüística/N ./. 
+
+
+Pretende/V se/PROPESS realizar/V o/ART colóquio/N de/PREP Linguística/NPROP para/PREP Processamento/N Automático/ADJ de/PREP línguas/N bienalmente/ADV ./. 
+
+
+Pretendemos/VAUX combinar/V apresentações/N convidadas/PCP (/( palestra/N ,/, minicursos/N e/KC comunicações/N )/) com/PREP comunicações/N submetidas/PCP a/PREP uma/ART seleção/N anônima/ADJ ./. 
+
+
+A/ART inscrição/N em/PREP|+ o/ART colóquio/N é/V gratuita/ADJ ./. 
+
+
+Licença/NPROP Creative/NPROP Commons/NPROP Este/PROADJ trabalho/N está/VAUX licenciado/PCP sob/PREP uma/ART Licença/NPROP Creative/NPROP Commons/NPROP Attribution/NPROP 3.0/NPROP ./. 
+
+

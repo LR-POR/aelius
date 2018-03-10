@@ -1,0 +1,37 @@
+O 1º Colóquio de Linguística para o Processamento Automático de Linguagem Natural (LiPrAL) se apresenta como uma oportunidade para mostrar o trabalho de pesquisadores do Brasil na área do Processamento Automático de Linguagem Natural (PLN), que é ainda pouco conhecida pelos linguistas do país.
+
+O evento será realizado no campus universitário de Goiabeiras, na cidade de Vitória (Espírito Santo). O campus de Goiabeiras é bem próximo de excelentes opções de hospedagem.
+
+A troca de informações dará aos participantes e às pesquisas maior visibilidade nacional, contribuindo na formação dos estudantes pesquisadores nesta área e no fortalecimento das relações entre professores pesquisadores de diferentes universidades brasileiras e empresários que necessitam de resultados dos estudos linguísticos para o PLN.
+
+O Colóquio LiPrAL visa apresentar resultados, promover a pesquisa, e elevar a qualidade da produção e inovação científica, nas áreas temáticas relacionadas ao Processamento de Linguagem Natural (PLN) e à Linguística computacional, reunindo pesquisadores de diversas universidades e empresários que utilizam recursos linguísticos para PLN.
+
+O conhecimento sobre conceitos próprios da linguística é importante na criação de sistemas de PLN. Atualmente, as aplicações vêm sendo concebidas quase só por informatas que, geralmente, não têm essa preocupação, e recorrem a poucas noções linguísticas. O desempenho dos sistemas computacionais resultantes poderia ser substancialmente melhorado se tivéssemos mais pesquisas investindo numa cobertura de descrição exaustiva do léxico do português. Pensamos que linguistas com capacidade de descrever formas linguísticas e formalizar resultados para uso computacional podem se integrar em empresas tecnológicas com atividades no ramo de PLN. Portanto, os estudos nessa área, além de contribuir para o ensino de línguas, têm um potencial de empregos em atividades tecnológicas, que ainda não é percebido pela comunidade acadêmica, sobretudo em nosso Estado. Para revertermos essa situação, é preciso explicar e comprovar a relevância crucial das pesquisas em linguística para o PLN, e investir mais tanto na motivação de pesquisadores, quanto na realização de pesquisas que visam às descrições de estruturas formalizadas para este fim.
+
+O Colóquio, portanto, se oferece como o espaço científico para essa reflexão sobre a importância da linguística na construção de recursos para o PLN.
+
+Espera-se promover um diálogo em torno da produção científica nas áreas de linguística e informática. A proposta é trabalharmos de modo integrativo, apresentando pesquisas realizadas por diferentes métodos de descrição e formalização da língua em uso, com vistas à elaboração de sistemas de busca, correção ortográfica, tradução e outras aplicações.
+
+Outra meta é a publicação dos artigos na forma de um livro.
+
+Os objetivos do colóquio são os seguintes.
+
+     Fortalecer as pesquisas na área de PLN, considerando que se trata de uma área proativa para o ensino de língua portuguesa como também para o mercado de trabalho no que diz respeito à ciência e tecnologia, tendo como condição as descrições e formalizações de estruturas lingüísticas para uso computacional.
+     Estimular a curiosidade e participação dos nossos alunos, com vistas ao ingresso no curso de mestrado.
+     Reunir pesquisadores da área.
+     Confrontar pontos de vista de estudiosos, em particular sobre as formas de encarar a interdisciplinaridade inerente a esta área.
+     Colocar em contato pesquisadores de diferentes níveis, desde os alunos de iniciação científica até os líderes do domínio.
+     Reforçar e incentivar a participação de linguistas no PLN, pois os colóquios regulares existentes nesse domínio costumam atrair mais informatas do que linguistas.
+     Promover uma interface entre pesquisadores e empresários interessados em inovações com PLN.
+
+O público alvo são pesquisadores, doutorandos, mestrandos e graduandos em lingüística.
+
+Pretende-se realizar o colóquio de Linguística para Processamento Automático de línguas bienalmente.
+
+Pretendemos combinar apresentações convidadas (palestra, minicursos e comunicações) com comunicações submetidas a uma seleção anônima.
+
+A inscrição no colóquio é gratuita.
+
+
+Licença Creative Commons
+Este trabalho está licenciado sob uma Licença Creative Commons Attribution 3.0 .

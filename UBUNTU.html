@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="OpenOffice.org 3.4.1  (Unix)">
+	<META NAME="AUTHOR" CONTENT="Leonel Figueiredo de Alencar">
+	<META NAME="CREATED" CONTENT="20121220;11110000">
+	<META NAME="CHANGEDBY" CONTENT="Leonel Figueiredo de Alencar">
+	<META NAME="CHANGED" CONTENT="20130221;20084700">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { size: 21cm 29.7cm; margin-left: 2cm; margin-right: 2cm; margin-top: 1.25cm; margin-bottom: 2cm }
+		P { margin-bottom: 0.21cm; direction: ltr; color: #000000; widows: 0; orphans: 0 }
+		P.western { font-family: "Times New Roman", serif; font-size: 12pt; so-language: pt-BR }
+		P.cjk { font-family: "Arial Unicode MS", sans-serif; font-size: 12pt; so-language: zh-CN }
+		P.ctl { font-family: "Arial Unicode MS", sans-serif; font-size: 12pt; so-language: hi-IN }
+		H1 { margin-bottom: 0.21cm; color: #000000; widows: 0; orphans: 0 }
+		H1.western { font-family: "Arial", sans-serif; font-size: 14pt; so-language: pt-BR }
+		H1.cjk { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: zh-CN }
+		H1.ctl { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: hi-IN }
+		H2 { margin-bottom: 0.21cm; color: #000000; widows: 0; orphans: 0 }
+		H2.western { font-family: "Arial", sans-serif; font-size: 14pt; so-language: pt-BR; font-style: italic }
+		H2.cjk { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: zh-CN; font-style: italic }
+		H2.ctl { font-family: "Arial Unicode MS", sans-serif; font-size: 14pt; so-language: hi-IN; font-style: italic }
+		A:link { so-language: zxx }
+		A.sdfootnoteanc { font-size: 57% }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-CA" TEXT="#000000" DIR="LTR">
+<P LANG="pt-BR" CLASS="western" ALIGN=RIGHT STYLE="margin-bottom: 0cm; font-weight: normal">
+<FONT SIZE=3><FONT SIZE=3><SPAN STYLE="font-weight: normal">© 2011 –
+2013 <A HREF="http://complin.blogspot.com.br/">Leonel F. de Alencar</A></SPAN></FONT></FONT></P>
+<H1 LANG="pt-BR" CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">Instruções
+complementares para instalação do Aelius no Linux Ubuntu</FONT></H1>
+<H2 LANG="pt-BR" CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">Instalação
+do Aelius e do HunPos</FONT></H2>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Baixe
+a nova versão do Aelius, abra o arquivo INSTALL.html e o leia com
+atenção.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">No
+Terminal do Ubuntu, execute o comando</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>sudo
+apt-get synaptic</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">para
+instalar o gerenciador de instalação de programas Synaptic, caso
+ainda não tenha instalado na sua máquina.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Abra
+o Synaptic por meio do menu Iniciar do Ubuntu (ou análogo) ou por
+meio do Terminal com o comando:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>sudo
+synaptic</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">No
+Synaptic, procure por </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">python-idle</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+e </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">python-devel</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+(ou </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">python-dev</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">),
+instalando esses programas caso não estejam instalados. Faça o
+mesmo com PyYAML, Numpy e Matplotlib.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Caso
+ PyYAML e Matplotlib não estejam disponíveis no Synaptic, baixe os
+respectivos arquivos compactados .tgz. Eles deverão ser baixados
+para a pasta $HOME/Downloads (em que a variável de ambiente $HOME
+tem valor do tipo /home/francy etc.). No Terminal, execute:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>cd
+Downloads</B></FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+(muda o diretório atual de trabalho para a pasta Downloads)</FONT><SUP><FONT SIZE=2 STYLE="font-size: 11pt"><A CLASS="sdfootnoteanc" NAME="sdfootnote1anc" HREF="#sdfootnote1sym"><SUP>1</SUP></A></FONT></SUP></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>ls</B></FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+(lista os arquivos do diretório atual de trabalho)</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Descompacte
+o arquivo tgz:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>tar
+-xvzf pyyaml</B></FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+(tecle TAB para o Terminal completar o nome do arquivo)</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Realizada
+a descomparação, execute:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>cd
+pyyaml</B></FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt"> (tecle
+TAB para o Terminal completar o nome do arquivo)</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Dentro
+da pasta do </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">pyyaml</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">,
+execute:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>sudo
+python setup.py install</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Faça
+o mesmo para o Matplotlib se for o caso.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Faça
+o mesmo procedimento para o tgz da versão recomendada do NLTK.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Através
+do Terminal, entre no idle, executando:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>idle</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Teste
+se as bibliotecas estão instaladas:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">&gt;&gt;&gt;
+</FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>import
+numpy, matplotlib, yaml, nltk</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Verifique
+a versão do NLTK:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">&gt;&gt;&gt;
+</FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>nltk.__version__</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Baixe
+a versão do HunPos para o Linux, descompacte o arquivo e coloque os
+dois binários na pasta recomendada no arquivo INSTALL.html do
+Aelius.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Coloque
+as pastas </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">Aelius</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+e </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">aelius_data</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+nos locais recomendados, conforme arquivo INSTALL.html.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Feche
+o idle. No Terminal, execute, a partir do diretório $HOME (que é o
+diretório de trabalho do Terminal quando iniciado):</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>sudo
+gedit .profile</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">No
+final desse arquivo, inclua as seguintes linhas:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">CLASSPATH=&quot;$HOME/jmx/mxpost.jar&quot;</FONT></FONT></P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">export
+CLASSPATH</FONT></FONT></P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">PATH=&quot;${PATH}:$HOME/jmx&quot;</FONT></FONT></P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">export
+PATH</FONT></FONT></P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">PATH=&quot;${PATH}:$HOME/Applications/bin&quot;</FONT></FONT></P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">export
+PATH</FONT></FONT></P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="en-US" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">PYTHONPATH=&quot;${PYTHONPATH}:$HOME/Applications&quot;</FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">export
+PYTHONPATH</FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Salve
+o arquivo. Feche o </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">gedit</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+e o Terminal. Faça logoff da conta (finalize a sessão). Faça
+login. Crie a pasta </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">analises</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+no diretório $HOME. Coloque nessa pasta um texto no formato .txt
+para ser etiquetado (por exemplo </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">teste.txt</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">).
+Entre no Terminal. A partir do Terminal, entre na pasta analises:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>cd
+analises</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Verifique
+se o arquivo </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">teste.txt</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+está na pasta:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>ls</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">A
+partir de </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">$HOME/analises</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">,
+via Terminal, entre no IDLE:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt"><B>idle</B></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Teste
+o Aelius com o AeliusHunPos:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="font-weight: normal">&gt;&gt;&gt;</SPAN></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>from Aelius import
+Extras, Toqueniza, AnotaCorpus</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">&gt;&gt;&gt;
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>h=Extras.carrega(“AeliusHunPos”)</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">&gt;&gt;&gt;
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>t=”teste.txt”</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">&gt;&gt;&gt;
+</FONT><FONT SIZE=2 STYLE="font-size: 11pt"><B>AnotaCorpus.anota_texto(t,h,&quot;hunpos&quot;)</B></FONT></FONT></P>
+<H2 LANG="pt-BR" CLASS="western"><FONT SIZE=2 STYLE="font-size: 11pt">Instalação
+do MXPOST</FONT></H2>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Na
+pasta $HOME, crie a pasta </FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">jmx</FONT></FONT><FONT SIZE=2 STYLE="font-size: 11pt">
+e coloque dentro dela o conteúdo do arquivo tgz descompactado.
+Verifique no Terminal se os arquivos são os listados abaixo:</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">l</FONT><FONT FACE="Courier, Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt"><B>s
+-m jmx/</B></FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">LICENSE.html,
+MXPOST.html, MXTERMINATOR.html, eos.project, mxpost, mxpost.jar,
+mxterminator,</FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT FACE="Courier New, monospace"><FONT SIZE=2 STYLE="font-size: 11pt">tagger.project,
+trainmxpost, trainmxterminator</FONT></FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><FONT SIZE=2 STYLE="font-size: 11pt">Através
+do Synaptic, instale Java.</FONT></P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm; border-top: none; border-bottom: 1.00pt solid #000000; border-left: none; border-right: none; padding-top: 0cm; padding-bottom: 0.07cm; padding-left: 0cm; padding-right: 0cm">
+<BR>
+</P>
+<P LANG="pt-BR" STYLE="margin-bottom: 0cm"><BR>
+</P>
+<P LANG="pt-BR" CLASS="western" ALIGN=LEFT STYLE="margin-bottom: 0.25cm">
+<FONT SIZE=2 STYLE="font-size: 11pt"><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><I>Instruções
+complementares para instalação do Aelius no Linux Ubuntu</I></FONT></FONT><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3>
+by </FONT></FONT></FONT><A HREF="http://aelius.sourceforge.net/"><FONT COLOR="#0026e2"><FONT FACE="Times-Roman, serif"><FONT SIZE=3><U>Leonel
+F. de Alencar</U></FONT></FONT></FONT></A><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3>
+is licensed under a </FONT></FONT></FONT><A HREF="http://creativecommons.org/licenses/by-nc-nd/3.0/"><FONT COLOR="#0026e2"><FONT FACE="Times-Roman, serif"><FONT SIZE=3><U>Creative
+Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</U></FONT></FONT></FONT></A><FONT COLOR="#000000"><FONT FACE="Times-Roman, serif"><FONT SIZE=3>.</FONT></FONT></FONT></FONT></P>
+<DIV ID="sdfootnote1">
+	<P LANG="pt-BR" STYLE="margin-left: 0.5cm; text-indent: -0.5cm; margin-bottom: 0cm">
+	<FONT SIZE=2><A CLASS="sdfootnotesym" NAME="sdfootnote1sym" HREF="#sdfootnote1anc">1</A>O
+	que está entre parênteses são explicações e não deve,
+	naturalmente, ser digitado!</FONT></P>
+</DIV>
+</BODY>
+</HTML>

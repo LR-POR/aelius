@@ -1,0 +1,44 @@
+O_art 1º_adj Colóquio_prop de_prp Linguística_prop para_prp o_art Processamento_prop Automático_prop de_prp Linguagem_prop Natural_prop (_punc LiPrAL_prop )_punc se_pron-pers apresenta_v-fin como_adv uma_art oportunidade_n para_prp mostrar_v-inf o_art trabalho_n de_prp pesquisadores_n de_prp o_art Brasil_prop em_prp a_art área_n de_prp o_art Processamento_prop Automático_prop de_prp Linguagem_prop Natural_prop (_punc PLN_prop )_punc ,_punc que_pron-indp é_v-fin ainda_adv pouco_adv conhecida_v-pcp por_prp os_art linguistas_n de_prp o_art país_n ._punc
+
+O_art evento_n será_v-fin realizado_v-pcp em_prp o_art campus_n universitário_adj de_prp Goiabeiras_prop ,_punc em_prp a_art cidade_n de_prp Vitória_prop (_punc Espírito_prop Santo_prop )_punc ._punc
+O_art campus_n de_prp Goiabeiras_prop é_v-fin bem_adv próximo_adj de_prp excelentes_adj opções_n de_prp hospedagem_n ._punc
+
+A_art troca_n de_prp informações_n dará_v-fin a_prp os_art participantes_n e_conj-c a_prp as_art pesquisas_n maior_adj visibilidade_n nacional_adj ,_punc contribuindo_v-ger em_prp a_art formação_n de_prp os_art estudantes_n pesquisadores_n em_prp esta_pron-det área_n e_conj-c em_prp o_art fortalecimento_n de_prp as_art relações_n entre_prp professores_n pesquisadores_n de_prp diferentes_pron-det universidades_n brasileiras_adj e_conj-c empresários_n que_pron-indp necessitam_v-fin de_prp resultados_n de_prp os_art estudos_n linguísticos_adj para_prp o_art PLN_prop ._punc
+
+O_art Colóquio_prop LiPrAL_prop visa_v-fin apresentar_v-inf resultados_n ,_punc promover_v-inf a_art pesquisa_n ,_punc e_conj-c elevar_v-inf a_art qualidade_n de_prp a_art produção_n e_conj-c inovação_n científica_adj ,_punc em_prp as_art áreas_n temáticas_adj relacionadas_v-pcp a_prp o_art Processamento_prop de_prp Linguagem_prop Natural_prop (_punc PLN_prop )_punc e_conj-c a_prp a_art Linguística_prop computacional_adj ,_punc reunindo_v-ger pesquisadores_n de_prp diversas_pron-det universidades_n e_conj-c empresários_n que_pron-indp utilizam_v-fin recursos_n linguísticos_adj para_prp PLN_prop ._punc
+
+O_art conhecimento_n sobre_prp conceitos_n próprios_adj de_prp a_art linguística_n é_v-fin importante_adj em_prp a_art criação_n de_prp sistemas_n de_prp PLN_prop ._punc
+Atualmente_adv ,_punc as_art aplicações_n vêm_v-fin sendo_v-ger concebidas_v-pcp quase_adv só_adv por_prp informatas_n que_pron-indp ,_punc geralmente_adv ,_punc não_adv têm_v-fin essa_pron-det preocupação_n ,_punc e_conj-c recorrem_v-fin a_prp poucas_pron-det noções_n linguísticas_adj ._punc
+O_art desempenho_n de_prp os_art sistemas_n computacionais_adj resultantes_adj poderia_v-fin ser_v-inf substancialmente_adv melhorado_v-pcp se_conj-s tivéssemos_v-fin mais_adv pesquisas_n investindo_v-ger em_prp uma_art cobertura_n de_prp descrição_n exaustiva_adj de_prp o_art léxico_n de_prp o_art português_n ._punc
+Pensamos_v-fin que_conj-s linguistas_n com_prp capacidade_n de_prp descrever_v-inf formas_n linguísticas_adj e_conj-c formalizar_v-inf resultados_n para_prp uso_n computacional_adj podem_v-fin se_pron-pers integrar_v-inf em_prp empresas_n tecnológicas_adj com_prp atividades_n em_prp o_art ramo_n de_prp PLN_prop ._punc
+Portanto_adv ,_punc os_art estudos_n em_prp essa_pron-det área_n ,_punc além_prp de_prp contribuir_v-inf para_prp o_art ensino_n de_prp línguas_n ,_punc têm_v-fin um_art potencial_n de_prp empregos_n em_prp atividades_n tecnológicas_adj ,_punc que_pron-indp ainda_adv não_adv é_v-fin percebido_v-pcp por_prp a_art comunidade_n acadêmica_adj ,_punc sobretudo_adv em_prp nosso_pron-det Estado_n ._punc
+Para_prp revertermos_v-inf essa_pron-det situação_n ,_punc é_v-fin preciso_adj explicar_v-inf e_conj-c comprovar_v-inf a_art relevância_n crucial_adj de_prp as_art pesquisas_n em_prp linguística_n para_prp o_art PLN_prop ,_punc e_conj-c investir_v-fin mais_adv tanto_adv em_prp a_art motivação_n de_prp pesquisadores_n ,_punc quanto_adv em_prp a_art realização_n de_prp pesquisas_n que_pron-indp visam_v-fin a_prp a_art descrições_n de_prp estruturas_n formalizadas_v-pcp para_prp este_pron-det fim_n ._punc
+
+O_art Colóquio_prop ,_punc portanto_adv ,_punc se_pron-pers oferece_v-fin como_prp o_art espaço_n científico_adj para_prp essa_pron-det reflexão_n sobre_prp a_art importância_n de_prp a_art linguística_n em_prp a_art construção_n de_prp recursos_n para_prp o_art PLN_prop ._punc
+
+Espera-se_v-fin promover_v-inf um_art diálogo_n em_prp torno_n de_prp a_art produção_n científica_adj em_prp as_art áreas_n de_prp linguística_n e_conj-c informática_n ._punc
+A_art proposta_n é_v-fin trabalharmos_v-fin de_prp modo_n integrativo_adj ,_punc apresentando_v-ger pesquisas_n realizadas_v-pcp por_prp diferentes_pron-det métodos_n de_prp descrição_n e_conj-c formalização_n de_prp a_art língua_n em_prp uso_n ,_punc com_prp vistas_n a_prp a_art elaboração_n de_prp sistemas_n de_prp busca_n ,_punc correção_n ortográfica_adj ,_punc tradução_n e_conj-c outras_pron-det aplicações_n ._punc
+
+Outra_pron-det meta_n é_v-fin a_art publicação_n de_prp os_art artigos_n em_prp a_art forma_n de_prp um_art livro_n ._punc
+
+Os_art objetivos_n de_prp o_art colóquio_n são_v-fin os_art seguintes_n ._punc
+
+Fortalecer_v-inf as_art pesquisas_n em_prp a_art área_n de_prp PLN_prop ,_punc considerando_v-ger que_conj-s se_pron-pers trata_v-fin de_prp uma_art área_n proativa_adj para_prp o_art ensino_n de_prp língua_n portuguesa_adj como_adv também_adv para_prp o_art mercado_n de_prp trabalho_n em_prp o_art que_pron-indp diz_v-fin respeito_n a_prp a_art ciência_n e_conj-c tecnologia_n ,_punc tendo_v-ger como_adv condição_n as_art descrições_n e_conj-c formalizações_n de_prp estruturas_n lingüísticas_adj para_prp uso_n computacional_adj ._punc
+Estimular_v-inf a_art curiosidade_n e_conj-c participação_n de_prp os_art nossos_pron-det alunos_n ,_punc com_prp vistas_n a_prp o_art ingresso_n em_prp o_art curso_n de_prp mestrado_n ._punc
+Reunir_v-inf pesquisadores_n de_prp a_art área_n ._punc
+Confrontar_v-inf pontos_n de_prp vista_n de_prp estudiosos_n ,_punc em_prp particular_n sobre_prp as_art formas_n de_prp encarar_v-inf a_art interdisciplinaridade_n inerente_adj a_prp esta_pron-det área_n ._punc
+Colocar_prop em_prp contato_n pesquisadores_n de_prp diferentes_pron-det níveis_n ,_punc desde_prp os_art alunos_n de_prp iniciação_n científica_adj até_prp os_art líderes_n de_prp o_art domínio_n ._punc
+Reforçar_v-inf e_conj-c incentivar_v-inf a_art participação_n de_prp linguistas_n em_prp o_art PLN_prop ,_punc pois_conj-c os_art colóquios_n regulares_adj existentes_adj em_prp esse_pron-det domínio_n costumam_v-fin atrair_v-inf mais_adv informatas_n de_prp o_art que_conj-s linguistas_n ._punc
+Promover_v-inf uma_art interface_n entre_prp pesquisadores_n e_conj-c empresários_n interessados_v-pcp em_prp inovações_n com_prp PLN_prop ._punc
+
+O_art público_n alvo_n são_v-fin pesquisadores_n ,_punc doutorandos_n ,_punc mestrandos_n e_conj-c graduandos_n em_prp lingüística_n ._punc
+
+Pretende_v-fin se_pron-pess realizar_v-fin o_art colóquio_n de_prp Linguística_prop para_prp Processamento_prop Automático_prop de_prp línguas_n bienalmente_adv ._punc
+
+Pretendemos_v-fin combinar_v-inf apresentações_n convidadas_v-pcp (_punc palestra_n ,_punc minicursos_n e_conj-c comunicações_n )_punc com_prp comunicações_n submetidas_v-pcp a_prp uma_art seleção_n anônima_adj ._punc
+
+A_art inscrição_n em_prp o_art colóquio_n é_v-fin gratuita_adj ._punc
+
+Licença_n Creative_prop Commons_prop
+Este_pron-det trabalho_n está_v-fin licenciado_v-pcp sob_prp uma_art Licença_n Creative_prop Commons_prop Attribution_prop 3.0_num ._punc
+
